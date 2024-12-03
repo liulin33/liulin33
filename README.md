@@ -3,8 +3,11 @@
 <img align='right' src='https://q.qlogo.cn/g?b=qq&nk=1141605242&s=640' width='300'>
 
 ![HTML](https://img.shields.io/badge/HTML-前端-green)![JavaScript](https://img.shields.io/badge/JavaScript-前端-green)![CSS](https://img.shields.io/badge/CSS-前端-green)
+
 ![PHP](https://img.shields.io/badge/PHP-后端-yellow)![ASP.NET](https://img.shields.io/badge/APS.NET-后端-yellow)![.NET](https://img.shields.io/badge/.NET-后端-yellow)
+
 ![MYSQL](https://img.shields.io/badge/MySQL-数据库-brightgreen)![SQLServer](https://img.shields.io/badge/SQLServer-数据库-brightgreen)
+
 ![小程序](https://img.shields.io/badge/小程序-开发-green)
 
 ### 个人简介
